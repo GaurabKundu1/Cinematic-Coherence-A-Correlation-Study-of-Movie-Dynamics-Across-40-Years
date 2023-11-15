@@ -1,6 +1,6 @@
-```markdown
 # Cinematic Coherence: A Correlation Study of Movie Dynamics Across 40 Years
-## A Project by Gaurab Kundu
+
+## A Project by [Gaurab Kundu](https://www.linkedin.com/in/gaurab-kundu/)
 
 ### Import Necessary Libraries
 ```python
