@@ -129,4 +129,3 @@ print(high_corr)
 
 ### Project Summary
 *In this project, I conducted a comprehensive analysis of movie dynamics across 40 years, focusing on the correlation between various factors. The exploration involved data cleaning, visualization, and hypothesis testing. While confirming the positive correlation between movie budget and gross earnings, the project debunked the hypothesis that movie production company significantly influences gross earnings. Additionally, the study highlighted the crucial role of audience votes in a movie's financial success, showcasing a strong positive correlation. This project not only honed my Python skills but also provided valuable insights into the intricate dynamics of the film industry.*
-
